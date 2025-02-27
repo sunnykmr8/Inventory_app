@@ -18,7 +18,7 @@ The Inventory Management System is a desktop application built using PyQt5, desi
 - **Sales Reporting**: View a detailed sales report in a tabular format.
 - **Checkout Process**: Handle payment and return change to the user.
 
-## Installation
+## Installations
 
 ### Prerequisites
 - Python 3.x
